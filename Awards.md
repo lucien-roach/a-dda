@@ -1,0 +1,3 @@
+<img src='http://a-dda.googlecode.com/svn/wiki/HPC_cup.jpg' align='right'>
+<ul><li>2010 - Laureate of Russian contest <a href='http://ru.intel.com/business/community/index.php?act=abouthpc2010'>"Impossible became possible: real applications for HPC"</a> (organized by Intel).<br>
+<blockquote><code>ADDA</code> was a central part of project "Simulation of interaction of electromagnetic waves with particles of arbitrary shape and internal structure", which received an <a href='http://www.rusnanoforum.ru/Document.aspx/Download/29255'>honorary mention</a> (ranking from 11 to 20 out of 82 participants) and a cup. (links are in Russian)
